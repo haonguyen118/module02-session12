@@ -1,0 +1,203 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "nguyen hao"
+    },
+    {
+      "id": 2,
+      "name": "thanh cong"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 3,
+      "taskname": "Dat ve may bay"
+    },
+    {
+      "id": 4,
+      "taskname": "Tinh toan cho phi du lich"
+    },
+    {
+      "taskname": "Di hoc",
+      "id": 5
+    },
+    {
+      "taskname": "Di lam",
+      "id": 6
+    },
+    {
+      "taskname": "Di choi",
+      "id": 8
+    },
+    {
+      "taskname": "Di trong rau",
+      "id": 9
+    },
+    {
+      "taskname": "di hoc",
+      "id": 13
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Pizza",
+      "image": "./Module 02/session11/public/img/pizza.jpg",
+      "price": 30,
+      "quantity": 0,
+      "detail": "Delicious cheese pizza, crispy thin crust.",
+      "disabled": "true"
+    },
+    {
+      "id": 2,
+      "name": "Hamburger",
+      "image": "./Module 02/session11/public/img/Hamburger.jpg",
+      "price": 15,
+      "detail": "American beef burger, with vegetables and special sauce.",
+      "quantity": 4
+    },
+    {
+      "id": 3,
+      "name": "Bread",
+      "image": "./Module 02/session11/public/img/bread.jpg",
+      "price": 20,
+      "detail": "Crispy toast with garlic butter flavor.",
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "name": "Cake",
+      "image": "./Module 02/session11/public/img/Cake.jpg",
+      "price": 20,
+      "detail": "Traditional dishes with delicious flavors",
+      "quantity": 1
+    }
+  ],
+  "libraries":[
+    {
+      "id":1,
+      "bookName":"Ai lay mieng pho mat cua toi",
+      "studentName": "Nguyen Van A",
+      "borrowedDay": "2025-04-05",
+      "paymentDate":"2025-04-12",
+      "status":1
+
+    },
+    { 
+        "id": 2,
+       "bookName": "Cuộc phiêu lưu kỳ thú",
+        "studentName": "Nguyen Van B",
+         "borrowedDay": "2025-04-06",
+          "paymentDate": "2025-04-13",
+           "status": 0 },
+
+      { 
+        "id": 3,
+         "bookName": "Ngôi nhà bí ẩn",
+          "studentName": "Tran Thi C",
+           "borrowedDay": "2025-04-07",
+            "paymentDate": "2025-04-14", 
+            "status": 1
+           },
+      { 
+        "id": 4,
+         "bookName": "Vùng đất thần thoại",
+          "studentName": "Le Van D",
+           "borrowedDay": "2025-04-08",
+            "paymentDate": "2025-04-15",
+             "status": 0 
+            },
+      { 
+        "id": 5,
+         "bookName": "Con đường sáng tạo",
+          "studentName": "Nguyen Thi E",
+           "borrowedDay": "2025-04-09",
+            "paymentDate": "2025-04-16",
+             "status": 1 
+            },
+      { "id": 6,
+       "bookName": "Thế giới song song",
+        "studentName": "Pham Van F",
+         "borrowedDay": "2025-04-10", 
+         "paymentDate": "2025-04-17", 
+         "status": 0 },
+      { "id": 7,
+       "bookName": "Bí mật thời gian", 
+       "studentName": "Do Thi G",
+        "borrowedDay": "2025-04-11",
+         "paymentDate": "2025-04-18",
+          "status": 1 
+        },
+      { "id": 8,
+       "bookName": "Ký ức lạc lối",
+        "studentName": "Hoang Van H",
+         "borrowedDay": "2025-04-12",
+          "paymentDate": "2025-04-19",
+           "status": 0
+           },
+      { "id": 9,
+       "bookName": "Hành trình xanh",
+        "studentName": "Nguyen Van I", 
+        "borrowedDay": "2025-04-13",
+         "paymentDate": "2025-04-20", 
+         "status": 1 
+        },
+      { 
+        "id": 10,
+       "bookName": "Mã nguồn bí ẩn", 
+       "studentName": "Pham Thi J",
+        "borrowedDay": "2025-04-14",
+         "paymentDate": "2025-04-21",
+          "status": 0 
+        },
+      { 
+        "id": 11,
+       "bookName": "Thiên đường mất tích",
+        "studentName": "Le Van K",
+         "borrowedDay": "2025-04-15",
+          "paymentDate": "2025-04-22",
+           "status": 1 
+          },
+      { 
+        "id": 12,
+         "bookName": "Vũ trụ nhỏ bé", 
+         "studentName": "Nguyen Thi L",
+          "borrowedDay": "2025-04-16",
+           "paymentDate": "2025-04-23", 
+           "status": 0 
+          },
+      { 
+        "id": 13, 
+        "bookName": "Tia sáng cuối cùng", 
+        "studentName": "Tran Van M", 
+        "borrowedDay": "2025-04-17", 
+        "paymentDate": "2025-04-24",
+         "status": 1 
+        },
+      { "id": 14,
+       "bookName": "Hòa bình bất tận",
+        "studentName": "Pham Thi N",
+         "borrowedDay": "2025-04-18",
+          "paymentDate": "2025-04-25", 
+          "status": 0 
+        },
+      { "id": 15,
+       "bookName": "Đỉnh núi xanh",
+        "studentName": "Nguyen Van O",
+         "borrowedDay": "2025-04-19", 
+         "paymentDate": "2025-04-26",
+          "status": 1 
+        },
+      {
+         "id": 16,
+          "bookName": "Những người mơ mộng",
+           "studentName": "Le Thi P",
+            "borrowedDay": "2025-04-20",
+             "paymentDate": "2025-04-27", 
+             "status": 0 
+            }
+  ]
+  
+  
+}
